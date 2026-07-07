@@ -62,7 +62,7 @@ The model is evaluated using:
 
 ---
 
-## Folder Structure
+## Folder Structure on Hugging Face
 
 ```
 BERT-News-Classifier
